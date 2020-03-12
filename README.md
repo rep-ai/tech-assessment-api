@@ -6,7 +6,7 @@ Build an API service to manage a set of users.
 
 ## Details
 
-Using Node and Typescript, build a web-based API which allows clients to manage a set of users. Please make regular commits with meaningful commit messages to a public GitHub repository, as you're working. Feel free to use any libraries you like and to take shortcuts, but be ready to explain your decision-making.
+Using Node and Typescript, build a web-based API which allows clients to manage a set of users. Please make regular commits with meaningful commit messages to a GitHub repository, as you're working. Feel free to use any libraries you like and to take shortcuts, but be ready to explain your decision-making.
 
 Provide unit tests and integration tests, as needed.
 
